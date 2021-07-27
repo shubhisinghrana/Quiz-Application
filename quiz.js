@@ -26,7 +26,7 @@ c:"Shanghai",
 d:"Hong Kong",
 answer:"ans2"},
 
-{question:"5.what is capital of birtain?"
+{question:"5.what is capital of britain?"
 ,a:"London",
 b:"Manchester",
 c:"Glasgow",
