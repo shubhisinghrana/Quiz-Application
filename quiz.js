@@ -1,32 +1,32 @@
-const quizDB=[{question:"1.what is capital of india?",
+const quizDB=[{question:"1.What is Capital of India?",
 a:"delhi",
 b:"pune",
 c:"banglore",
 d:"mumbai",
 answer:"ans1"},
 
-{question:"2.what is capital of america?",
+{question:"2.What is Capital of America?",
 a:"New Orleans",
 b:"washington",
 c:"New York",
 d:"Chicago",
 answer:"ans2"},
 
-{question:"3.what is capital of germany?"
+{question:"3.What is Capital of Germany?"
 ,a:"berlin",
 b:"munich",
 c:"hamburg",
 d:"leipzig",
 answer:"ans1"},
 
-{question:"4.what is capital of china?"
+{question:"4.What is Capital of China?"
 ,a:"Lhasa",
 b:"Beijing",
 c:"Shanghai",
 d:"Hong Kong",
 answer:"ans2"},
 
-{question:"5.what is capital of britain?"
+{question:"5.What is Capital of Britain?"
 ,a:"London",
 b:"Manchester",
 c:"Glasgow",
