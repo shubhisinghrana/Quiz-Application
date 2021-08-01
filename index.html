@@ -14,7 +14,7 @@
         font-family:"josefin-sanse", sans-serif;
         }
          h3{
-             padding-left:4rem;
+             padding-left:2rem;
            }
         .container{
             width:100vw;
@@ -38,9 +38,16 @@
         }
         .row li{
             list-style:none;
+            border-color:rgb(241, 234, 234);
+            border-style:solid;
+            border-width:thin;
             font-size:1rem;
+            background-color:rgb(231, 240, 241);
             margin-top:1rem;
-            padding-left:3rem;
+            margin-left:3rem;
+            margin-right:10rem;
+            padding:0.5rem;
+            box-shadow:0 1rem 1rem -0.7rem rgba(0,0,0,0.4);
         }
         input{
             cursor:pointer;
@@ -83,6 +90,28 @@
         {
             background-color:rgb(194, 140, 245);
         }
+         @media(max-width:768px){
+        .row h3
+        {
+          font-size:1.5rem;
+          font-weight:300;
+          margin:0.5rem 0 1.5rem 0;
+          color:red;
+        } 
+        .row{
+           width:70vw;
+            padding:2rem 0.5rem;
+            padding-left:0.2rem;
+            }
+        h3{
+             padding-left:1rem;
+           }
+           .row li{
+              padding-right:7rem;
+              margin-right:12rem;
+              padding-bottom:1rem;
+              }
+}
     </style>
 </head>
 <body>
